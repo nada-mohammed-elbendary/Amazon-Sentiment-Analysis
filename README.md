@@ -74,7 +74,7 @@ This project implements a **high-performance sentiment analysis system** that cl
   
   ### 🌐 **[Live Demo Coming Soon →](#)**
   
-  <img src="screenshots/main.png" alt="Neural Sentiment Engine - Main Interface" width="80%"/>
+  <img src="main.png" alt="Neural Sentiment Engine - Main Interface" width="80%"/>
   
   *AI-Powered Sentiment Analysis in Action*
   
@@ -800,5 +800,6 @@ If you found this project helpful, please consider:
 ### 🚀 **"Transforming Reviews into Insights, One Sentiment at a Time"**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
+
 
 </div>
